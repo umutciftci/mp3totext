@@ -1,4 +1,4 @@
-# filetotext
+# mp3totext
 
 This program helps to convert .mp3 to .wav and the audio file to text. 
 
