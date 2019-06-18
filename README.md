@@ -1,6 +1,6 @@
 # filetotext
 
-This program helps to convert .mp3 to .wav and translate the audio file to text. 
+This program helps to convert .mp3 to .wav and the audio file to text. 
 
 > Python 3.6
 
