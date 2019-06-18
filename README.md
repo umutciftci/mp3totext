@@ -16,3 +16,5 @@ $ sudo pip3 install pydub
 python3 ./main.py
 ```
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
